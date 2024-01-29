@@ -5,7 +5,6 @@ Disfruto resolviendo problemas de lógica y tengo un amor inquebrantable por apr
 
 ¡Contáctame para descubrir más sobre mi viaje y experiencias en el mundo de la programación!
 
-<!--
 - 🔭 Actualmente estoy trabajando en un proyecto de Unity 3D.
 - 🌱 Actualmente estoy aprendiendo a programar con C# de forma autodidácta.
 - 👯 Estoy buscando colaborar en proyectos interesantes que me enseñen cosas nuevas.
@@ -16,4 +15,3 @@ const contact = {
   phone: +541165361152,
   linkedIn: "www.linkedin.com/in/alexis-porcelano-b3a142251"
   }
--->
