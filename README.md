@@ -15,5 +15,5 @@ Disfruto resolviendo problemas de lógica y tengo un amor inquebrantable por apr
 const contact = {
   email: alexisporcelano@gmail.com, 
   phone: +541165361152,
-  linkedIn: www.linkedin.com/in/alexis-porcelano-b3a142251
+  linkedIn: "[www.linkedin.com/in/alexis-porcelano-b3a142251](www.linkedin.com/in/alexis-porcelano-b3a142251)"
 }
