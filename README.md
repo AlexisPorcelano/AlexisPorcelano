@@ -6,8 +6,8 @@ Disfruto resolviendo problemas de lógica y tengo un amor inquebrantable por apr
 
 ¡Contáctame para descubrir más sobre mi viaje y experiencias en el mundo de la programación!
 
-- 💻 Actualmente estoy trabajando en un proyecto de Unity 3D.
-- 👨‍🎓 Actualmente estoy aprendiendo a programar con C# de forma autodidácta.
+- 💻 Actualmente estoy desarrollando un juego de cartas por pura pasión, usando los frameworks React, Express y Sequelize.
+- 👨‍🎓 Me recibí de fullstack web developer en febrero de 2024.
 - 🤝 Estoy buscando colaborar en proyectos interesantes que me enseñen cosas nuevas.
 - 🏢 Estoy buscando trabajo fijo
 
