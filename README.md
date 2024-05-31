@@ -9,7 +9,7 @@ Disfruto resolviendo problemas de lógica y tengo un amor inquebrantable por apr
 - 💻 Actualmente estoy desarrollando un juego de cartas por pura pasión, usando los frameworks React, Express y Sequelize.
 - 👨‍🎓 Me recibí de fullstack web developer en febrero de 2024.
 - 🤝 Estoy buscando colaborar en proyectos interesantes que me enseñen cosas nuevas.
-- 🏢 Estoy buscando trabajo fijo
+- 🏢 Estoy buscando trabajo fijo como desarrollador web.
 
 ```plaintext
 const contact = {
